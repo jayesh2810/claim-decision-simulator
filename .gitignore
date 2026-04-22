@@ -1,8 +1,20 @@
-backend/.cache/
+# --- Local / secrets (never commit) ---
 backend/.env
+backend/.cache/
 backend/claims.db
+
+# --- Python ---
 __pycache__/
 *.pyc
 .Python
 .venv/
 venv/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# --- OS & tooling ---
+.DS_Store
+
+# Claude Code worktrees, settings, and caches (keep repo root CLAUDE.md instead)
+.claude/

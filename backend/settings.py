@@ -27,7 +27,19 @@ class Settings(BaseSettings):
     groq_api_key: str | None = None
     groq_model: str = "qwen/qwen3-32b"
 
-    document_text_max_chars: int = Field(default=48_000, ge=4000, le=200_000)
+    # Shorter system prompt saves input tokens. Groq often returns HTTP 413 when a request exceeds tier TPM/token limits.
+    groq_compact_system_prompt: bool = Field(default=True)
+
+    # Hard cap on document characters sent to Groq (before JSON sizing). Lower if 413 persists on free tier.
+    groq_max_document_chars: int = Field(default=12_000, ge=500, le=500_000)
+
+    # Completion budget; lower values reduce "requested tokens" on some Groq tiers.
+    groq_max_tokens: int = Field(default=4096, ge=256, le=32_768)
+
+    # Serialized JSON body budget (bytes) for httpx; secondary to token caps above.
+    groq_max_request_body_bytes: int = Field(default=28_000, ge=8_192, le=500_000)
+
+    document_text_max_chars: int = Field(default=32_000, ge=4000, le=200_000)
 
     llm_timeout_seconds: float = 120.0
 
