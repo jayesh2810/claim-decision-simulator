@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "claim_id": "CLM-2025-GT-P99",
+    "claimant_name": "Bob WithHistory",
+    "claimant_id": "CLMT-GT-90002",
+    "policy_id": "POL-GT-90002",
+    "incident_date": "2025-08-20",
+    "claim_submission_date": "2025-08-25",
+    "claim_line": "auto_collision",
+    "incident_type": "vehicle_collision"
+  },
+  "claimed_loss_amount": 3200.0,
+  "claim_narrative": "Parking lot sideswipe; single estimate attached; no injuries.",
+  "documents_provided": [
+    "photos",
+    "repair_estimate"
+  ],
+  "prior_claims_same_type": 0,
+  "policy_info": {
+    "policy_id": "POL-GT-90002",
+    "claimant_id": "CLMT-GT-90002",
+    "policy_type": "auto",
+    "coverage_type": "collision",
+    "policy_start_date": "2024-01-01",
+    "policy_end_date": "2027-12-31",
+    "deductible": 1000.0,
+    "policy_limit": 25000.0,
+    "coinsurance": 1.0,
+    "exclusions": []
+  },
+  "jurisdiction": "US-TX",
+  "third_party_liable": false,
+  "insured_liability_percent": 0.0
+}

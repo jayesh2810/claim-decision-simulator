@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "claim_id": "CLM-2026-GT-001",
+    "claimant_name": "Alice GroundTruth",
+    "claimant_id": "CLMT-GT-90001",
+    "policy_id": "POL-GT-90001",
+    "incident_date": "2026-03-10",
+    "claim_submission_date": "2026-03-12",
+    "claim_line": "auto_collision",
+    "incident_type": "vehicle_collision"
+  },
+  "claimed_loss_amount": 12450.0,
+  "claim_narrative": "Rear-end collision on Harbor Blvd while stopped at a traffic light. The other driver admitted fault; photos show bumper and tail lamp damage. Police report and written estimate from AllStar Collision attached.",
+  "documents_provided": [
+    "police_report",
+    "repair_estimate",
+    "photos",
+    "insurance_card_copy"
+  ],
+  "prior_claims_same_type": 0,
+  "policy_info": {
+    "policy_id": "POL-GT-90001",
+    "claimant_id": "CLMT-GT-90001",
+    "policy_type": "auto",
+    "coverage_type": "collision",
+    "policy_start_date": "2025-01-10",
+    "policy_end_date": "2028-01-10",
+    "deductible": 500.0,
+    "policy_limit": 50000.0,
+    "coinsurance": 1.0,
+    "exclusions": []
+  },
+  "jurisdiction": "US-CA",
+  "third_party_liable": true,
+  "insured_liability_percent": 0.0
+}

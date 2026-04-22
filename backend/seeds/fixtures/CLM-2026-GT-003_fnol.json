@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "claim_id": "CLM-2026-GT-003",
+    "claimant_name": "Carol Queued",
+    "claimant_id": "CLMT-GT-90003",
+    "policy_id": "POL-GT-90003",
+    "incident_date": "2026-02-14",
+    "claim_submission_date": "2026-02-20",
+    "claim_line": "homeowners_dwelling",
+    "incident_type": "kitchen_fire"
+  },
+  "claimed_loss_amount": 18900.0,
+  "claim_narrative": "Grease fire in kitchen. Smoke and cabinet damage. Fire dept report and photos attached.",
+  "documents_provided": [
+    "photos",
+    "fire_department_report",
+    "contractor_estimate"
+  ],
+  "prior_claims_same_type": 0,
+  "policy_info": {
+    "policy_id": "POL-GT-90003",
+    "claimant_id": "CLMT-GT-90003",
+    "policy_type": "homeowners",
+    "coverage_type": "dwelling",
+    "policy_start_date": "2020-05-01",
+    "policy_end_date": "2030-05-01",
+    "deductible": 2000.0,
+    "policy_limit": 350000.0,
+    "coinsurance": 1.0,
+    "exclusions": []
+  },
+  "jurisdiction": "US-FL",
+  "third_party_liable": false,
+  "insured_liability_percent": 0.0
+}
