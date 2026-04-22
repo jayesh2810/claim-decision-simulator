@@ -1,0 +1,39 @@
+:root {
+  --bg: #0f172a;
+  --surface: #1e293b;
+  --surface-elevated: #243447;
+  --border: rgba(148, 163, 184, 0.2);
+  --text: #f1f5f9;
+  --muted: #94a3b8;
+  --teal: #14b8a6;
+  --teal-dim: rgba(20, 184, 166, 0.12);
+  --amber: #f59e0b;
+  --amber-dim: rgba(245, 158, 11, 0.12);
+  --red: #f87171;
+  --red-dim: rgba(248, 113, 113, 0.12);
+  --green: #34d399;
+  --green-dim: rgba(52, 211, 153, 0.12);
+  --font: 'DM Sans', system-ui, -apple-system, sans-serif;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  min-height: 100%;
+  font-family: var(--font);
+  background: radial-gradient(1200px 600px at 10% -10%, rgba(20, 184, 166, 0.08), transparent),
+    var(--bg);
+  color: var(--text);
+}
+
+button,
+select,
+input {
+  font-family: inherit;
+}

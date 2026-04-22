@@ -1,0 +1,434 @@
+[
+  {
+    "metadata": {
+      "claim_id": "CLM-2026-001",
+      "claimant_name": "Alice Martinez",
+      "claimant_id": "CLMT-10001",
+      "policy_id": "POL-AU-77821",
+      "incident_date": "2026-02-10",
+      "claim_submission_date": "2026-02-18",
+      "claim_line": "auto_collision",
+      "incident_type": "vehicle_collision"
+    },
+    "claimed_loss_amount": 8500,
+    "claim_narrative": "I was stopped at a red light on Oak Avenue when another vehicle struck the rear of my sedan. The other driver admitted fault and we exchanged insurance information. There is visible damage to the rear bumper and trunk lid. I obtained a repair estimate from a certified collision center.",
+    "documents_provided": ["police_report", "repair_estimate", "photos", "insurance_card_copy"],
+    "prior_claims_same_type": 0,
+    "jurisdiction": "US-CA",
+    "third_party_liable": true,
+    "insured_liability_percent": 0,
+    "policy_info": {
+      "policy_id": "POL-AU-77821",
+      "claimant_id": "CLMT-10001",
+      "policy_type": "auto",
+      "coverage_type": "collision",
+      "policy_start_date": "2025-03-01",
+      "policy_end_date": "2027-03-01",
+      "deductible": 500,
+      "policy_limit": 50000,
+      "coinsurance": 1.0,
+      "exclusions": []
+    }
+  },
+  {
+    "metadata": {
+      "claim_id": "CLM-2026-002",
+      "claimant_name": "Robert Chen",
+      "claimant_id": "CLMT-10002",
+      "policy_id": "POL-AU-99102",
+      "incident_date": "2026-03-01",
+      "claim_submission_date": "2026-09-15",
+      "claim_line": "auto_collision",
+      "incident_type": "vehicle_collision"
+    },
+    "claimed_loss_amount": 4200,
+    "claim_narrative": "Collision damage from a parking lot incident; repair estimate attached. Policy should cover under collision coverage.",
+    "documents_provided": ["police_report", "repair_estimate", "photos"],
+    "prior_claims_same_type": 0,
+    "policy_info": {
+      "policy_id": "POL-AU-99102",
+      "claimant_id": "CLMT-10002",
+      "policy_type": "auto",
+      "coverage_type": "collision",
+      "policy_start_date": "2024-01-01",
+      "policy_end_date": "2026-06-01",
+      "deductible": 1000,
+      "policy_limit": 25000,
+      "coinsurance": 1.0,
+      "exclusions": []
+    }
+  },
+  {
+    "metadata": {
+      "claim_id": "CLM-2026-003",
+      "claimant_name": "Sanjay Patel",
+      "claimant_id": "CLMT-10003",
+      "policy_id": "POL-AU-66110",
+      "incident_date": "2026-01-12",
+      "claim_submission_date": "2026-02-01",
+      "claim_line": "auto_collision",
+      "incident_type": "vehicle_collision"
+    },
+    "claimed_loss_amount": 62000,
+    "claim_narrative": "Something happened, not sure. I think maybe stuff — collision-type damage. Don't know more.",
+    "documents_provided": ["police_report", "repair_estimate", "photos"],
+    "prior_claims_same_type": 1,
+    "policy_info": {
+      "policy_id": "POL-AU-66110",
+      "claimant_id": "CLMT-10003",
+      "policy_type": "auto",
+      "coverage_type": "collision",
+      "policy_start_date": "2025-06-01",
+      "policy_end_date": "2028-06-01",
+      "deductible": 750,
+      "policy_limit": 40000,
+      "coinsurance": 1.0,
+      "exclusions": []
+    }
+  },
+  {
+    "metadata": {
+      "claim_id": "CLM-2026-004",
+      "claimant_name": "Elena Ruiz",
+      "claimant_id": "CLMT-10004",
+      "policy_id": "POL-AU-44155",
+      "incident_date": "2026-03-20",
+      "claim_submission_date": "2026-03-22",
+      "claim_line": "auto_collision",
+      "incident_type": "vehicle_collision"
+    },
+    "claimed_loss_amount": 6200,
+    "claim_narrative": "Side-impact collision at an intersection with moderate damage to driver-side doors. Body shop estimate lists labor and parts; another party cited by police report.",
+    "documents_provided": ["repair_estimate", "photos", "insurance_card_copy"],
+    "prior_claims_same_type": 0,
+    "jurisdiction": "US-TX",
+    "third_party_liable": true,
+    "insured_liability_percent": 30,
+    "policy_info": {
+      "policy_id": "POL-AU-44155",
+      "claimant_id": "CLMT-10004",
+      "policy_type": "auto",
+      "coverage_type": "collision",
+      "policy_start_date": "2025-01-01",
+      "policy_end_date": "2027-01-01",
+      "deductible": 500,
+      "policy_limit": 50000,
+      "coinsurance": 1.0,
+      "exclusions": []
+    }
+  },
+  {
+    "metadata": {
+      "claim_id": "CLM-2026-005",
+      "claimant_name": "Jordan Blake",
+      "claimant_id": "CLMT-10005",
+      "policy_id": "POL-AU-22001",
+      "incident_date": "2026-02-28",
+      "claim_submission_date": "2026-03-05",
+      "claim_line": "auto_collision",
+      "incident_type": "vehicle_collision"
+    },
+    "claimed_loss_amount": 98000,
+    "claim_narrative": "Stuff happened to the car. Dont know. Maybe not sure.",
+    "documents_provided": ["police_report", "photos"],
+    "prior_claims_same_type": 3,
+    "policy_info": {
+      "policy_id": "POL-AU-22001",
+      "claimant_id": "CLMT-10005",
+      "policy_type": "auto",
+      "coverage_type": "collision",
+      "policy_start_date": "2024-04-01",
+      "policy_end_date": "2028-04-01",
+      "deductible": 500,
+      "policy_limit": 100000,
+      "coinsurance": 1.0,
+      "exclusions": []
+    }
+  },
+  {
+    "metadata": {
+      "claim_id": "CLM-2026-006",
+      "claimant_name": "Morgan Lee",
+      "claimant_id": "CLMT-10006",
+      "policy_id": "POL-HO-33009",
+      "incident_date": "2023-01-01",
+      "claim_submission_date": "2025-12-31",
+      "claim_line": "homeowners_dwelling",
+      "incident_type": "hail_damage"
+    },
+    "claimed_loss_amount": 18500,
+    "claim_narrative": "Hail storm damaged roof and gutters on the date shown. Roofing contractor inspected and provided a scope of repair matching industry standards.",
+    "documents_provided": ["photos", "contractor_estimate", "weather_report"],
+    "prior_claims_same_type": 0,
+    "policy_info": {
+      "policy_id": "POL-HO-33009",
+      "claimant_id": "CLMT-10006",
+      "policy_type": "homeowners",
+      "coverage_type": "dwelling",
+      "policy_start_date": "2022-05-01",
+      "policy_end_date": "2027-05-01",
+      "deductible": 2500,
+      "policy_limit": 400000,
+      "coinsurance": 1.0,
+      "exclusions": []
+    }
+  },
+  {
+    "metadata": {
+      "claim_id": "CLM-2026-007",
+      "claimant_name": "Priya Nair",
+      "claimant_id": "CLMT-10007",
+      "policy_id": "POL-AU-50505",
+      "incident_date": "2026-06-14",
+      "claim_submission_date": "2026-06-15",
+      "claim_line": "auto_comprehensive",
+      "incident_type": "deer_strike"
+    },
+    "claimed_loss_amount": 5400,
+    "claim_narrative": "Deer entered the roadway on a rural route at dusk and struck the front quarter panel. Damage documented at a preferred shop and tow invoice is included.",
+    "documents_provided": ["police_report", "repair_estimate", "tow_receipt", "photos"],
+    "prior_claims_same_type": 0,
+    "policy_info": {
+      "policy_id": "POL-AU-50505",
+      "claimant_id": "CLMT-10007",
+      "policy_type": "auto",
+      "coverage_type": "comprehensive",
+      "policy_start_date": "2025-01-15",
+      "policy_end_date": "2026-06-15",
+      "deductible": 250,
+      "policy_limit": 60000,
+      "coinsurance": 1.0,
+      "exclusions": []
+    }
+  },
+  {
+    "metadata": {
+      "claim_id": "CLM-2026-008",
+      "claimant_name": "Chris Okonkwo",
+      "claimant_id": "CLMT-10008",
+      "policy_id": "POL-HO-11223",
+      "incident_date": "2026-01-20",
+      "claim_submission_date": "2026-02-01",
+      "claim_line": "homeowners_dwelling",
+      "incident_type": "water_pipe_burst"
+    },
+    "claimed_loss_amount": 50500,
+    "claim_narrative": "Interior water damage from a burst pipe on the second floor. Mitigation completed within 48 hours. Line-item estimate for drying, flooring, and baseboards attached.",
+    "documents_provided": ["photos", "contractor_estimate", "mitigation_invoice"],
+    "prior_claims_same_type": 0,
+    "policy_info": {
+      "policy_id": "POL-HO-11223",
+      "claimant_id": "CLMT-10008",
+      "policy_type": "homeowners",
+      "coverage_type": "dwelling",
+      "policy_start_date": "2023-07-01",
+      "policy_end_date": "2029-07-01",
+      "deductible": 500,
+      "policy_limit": 50000,
+      "coinsurance": 1.0,
+      "exclusions": []
+    }
+  },
+  {
+    "metadata": {
+      "claim_id": "CLM-2026-009",
+      "claimant_name": "Taylor Brooks",
+      "claimant_id": "CLMT-10009",
+      "policy_id": "POL-AU-88990",
+      "incident_date": "2026-03-08",
+      "claim_submission_date": "2026-03-10",
+      "claim_line": "auto_collision",
+      "incident_type": "multi_vehicle_pileup"
+    },
+    "claimed_loss_amount": 14250,
+    "claim_narrative": "Multi-vehicle chain reaction on the interstate during morning commute. Front and rear damage; liability still being sorted but collision coverage requested for insured repairs.",
+    "documents_provided": ["police_report", "repair_estimate", "photos", "tow_receipt"],
+    "prior_claims_same_type": 0,
+    "jurisdiction": "US-FL",
+    "third_party_liable": true,
+    "insured_liability_percent": 20,
+    "policy_info": {
+      "policy_id": "POL-AU-88990",
+      "claimant_id": "CLMT-10009",
+      "policy_type": "auto",
+      "coverage_type": "collision",
+      "policy_start_date": "2025-12-01",
+      "policy_end_date": "2028-12-01",
+      "deductible": 1000,
+      "policy_limit": 75000,
+      "coinsurance": 1.0,
+      "exclusions": []
+    }
+  },
+  {
+    "metadata": {
+      "claim_id": "CLM-2026-010",
+      "claimant_name": "Jamie Ortiz",
+      "claimant_id": "CLMT-10010",
+      "policy_id": "POL-HO-44456",
+      "incident_date": "2026-02-14",
+      "claim_submission_date": "2026-02-20",
+      "claim_line": "homeowners_dwelling",
+      "incident_type": "kitchen_fire"
+    },
+    "claimed_loss_amount": 22800,
+    "claim_narrative": "Grease fire caused smoke and cabinet damage. Fire department responded and cleared the structure. Contractor scoped replacement of cabinets and smoke remediation.",
+    "documents_provided": ["photos", "fire_department_report", "contractor_estimate"],
+    "prior_claims_same_type": 0,
+    "policy_info": {
+      "policy_id": "POL-HO-44456",
+      "claimant_id": "CLMT-10010",
+      "policy_type": "homeowners",
+      "coverage_type": "dwelling",
+      "policy_start_date": "2021-09-01",
+      "policy_end_date": "2031-09-01",
+      "deductible": 1500,
+      "policy_limit": 350000,
+      "coinsurance": 1.0,
+      "exclusions": []
+    }
+  },
+  {
+    "metadata": {
+      "claim_id": "CLM-2026-011",
+      "claimant_name": "Dr. Samir Hossain",
+      "claimant_id": "CLMT-10011",
+      "policy_id": "POL-HL-99177",
+      "incident_date": "2026-01-05",
+      "claim_submission_date": "2026-01-28",
+      "claim_line": "health_emergency",
+      "incident_type": "emergency_room_visit"
+    },
+    "claimed_loss_amount": 18750,
+    "claim_narrative": "Emergency department visit for acute abdominal pain with imaging and brief observation. Itemized facility and physician charges included with EOB where available.",
+    "documents_provided": ["itemized_bills", "eob_partial", "discharge_summary"],
+    "prior_claims_same_type": 0,
+    "policy_info": {
+      "policy_id": "POL-HL-99177",
+      "claimant_id": "CLMT-10011",
+      "policy_type": "health",
+      "coverage_type": "emergency",
+      "policy_start_date": "2025-01-01",
+      "policy_end_date": "2027-01-01",
+      "deductible": 3000,
+      "policy_limit": 50000,
+      "coinsurance": 0.85,
+      "exclusions": ["cosmetic_surgery"]
+    }
+  },
+  {
+    "metadata": {
+      "claim_id": "CLM-2026-012",
+      "claimant_name": "Casey Nguyen",
+      "claimant_id": "CLMT-10012",
+      "policy_id": "POL-AU-12008",
+      "incident_date": "2026-04-01",
+      "claim_submission_date": "2026-04-03",
+      "claim_line": "auto_collision",
+      "incident_type": "vehicle_collision"
+    },
+    "claimed_loss_amount": 1800,
+    "claim_narrative": "Minor fender damage in slow-speed traffic. Single estimate from a local shop; choosing not to pursue subrogation for such a small amount.",
+    "documents_provided": ["police_report", "repair_estimate", "photos"],
+    "prior_claims_same_type": 0,
+    "policy_info": {
+      "policy_id": "POL-AU-12008",
+      "claimant_id": "CLMT-10012",
+      "policy_type": "auto",
+      "coverage_type": "collision",
+      "policy_start_date": "2025-04-01",
+      "policy_end_date": "2028-04-01",
+      "deductible": 100,
+      "policy_limit": 25000,
+      "coinsurance": 1.0,
+      "exclusions": []
+    }
+  },
+  {
+    "metadata": {
+      "claim_id": "CLM-2026-013",
+      "claimant_name": "Riley Kim",
+      "claimant_id": "CLMT-10013",
+      "policy_id": "POL-HO-77001",
+      "incident_date": "2026-02-22",
+      "claim_submission_date": "2026-02-25",
+      "claim_line": "homeowners_dwelling",
+      "incident_type": "wind_damage"
+    },
+    "claimed_loss_amount": 24000,
+    "claim_narrative": "Straight-line wind damaged a section of shingles; full replacement recommended for one slope to maintain manufacturer warranty. Detailed scope attached.",
+    "documents_provided": ["photos", "contractor_estimate", "weather_report"],
+    "prior_claims_same_type": 0,
+    "policy_info": {
+      "policy_id": "POL-HO-77001",
+      "claimant_id": "CLMT-10013",
+      "policy_type": "homeowners",
+      "coverage_type": "dwelling",
+      "policy_start_date": "2024-03-01",
+      "policy_end_date": "2030-03-01",
+      "deductible": 2000,
+      "policy_limit": 300000,
+      "coinsurance": 0.7,
+      "exclusions": []
+    }
+  },
+  {
+    "metadata": {
+      "claim_id": "CLM-2026-014",
+      "claimant_name": "Alex Rivera",
+      "claimant_id": "CLMT-10014",
+      "policy_id": "POL-AU-66002",
+      "incident_date": "2026-03-18",
+      "claim_submission_date": "2026-03-20",
+      "claim_line": "auto_collision",
+      "incident_type": "vehicle_collision"
+    },
+    "claimed_loss_amount": 9600,
+    "claim_narrative": "Rear-end collision during commute; other party insurance verified. Damage limited to rear bumper cover and parking sensors. Repair timeline estimated at five business days.",
+    "documents_provided": ["police_report", "repair_estimate", "photos"],
+    "prior_claims_same_type": 1,
+    "jurisdiction": "US-NY",
+    "third_party_liable": true,
+    "insured_liability_percent": 0,
+    "policy_info": {
+      "policy_id": "POL-AU-66002",
+      "claimant_id": "CLMT-10014",
+      "policy_type": "auto",
+      "coverage_type": "collision",
+      "policy_start_date": "2025-09-01",
+      "policy_end_date": "2028-09-01",
+      "deductible": 500,
+      "policy_limit": 40000,
+      "coinsurance": 1.0,
+      "exclusions": []
+    }
+  },
+  {
+    "metadata": {
+      "claim_id": "CLM-2026-015",
+      "claimant_name": "Quinn Foster",
+      "claimant_id": "CLMT-10015",
+      "policy_id": "POL-AU-33045",
+      "incident_date": "2026-04-10",
+      "claim_submission_date": "2026-04-12",
+      "claim_line": "auto_collision",
+      "incident_type": "vehicle_collision"
+    },
+    "claimed_loss_amount": 11000,
+    "claim_narrative": "Another collision loss on this policy year. Damage to left side panels and mirror assembly. Similar facts to prior claims but distinct accident date and location.",
+    "documents_provided": ["police_report", "repair_estimate", "photos", "dashcam_clip"],
+    "prior_claims_same_type": 3,
+    "policy_info": {
+      "policy_id": "POL-AU-33045",
+      "claimant_id": "CLMT-10015",
+      "policy_type": "auto",
+      "coverage_type": "collision",
+      "policy_start_date": "2024-04-01",
+      "policy_end_date": "2028-04-01",
+      "deductible": 500,
+      "policy_limit": 50000,
+      "coinsurance": 1.0,
+      "exclusions": []
+    }
+  }
+]

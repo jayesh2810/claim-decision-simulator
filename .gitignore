@@ -1,0 +1,8 @@
+backend/.cache/
+backend/.env
+backend/claims.db
+__pycache__/
+*.pyc
+.Python
+.venv/
+venv/
